@@ -17,8 +17,6 @@
 
 ## 새로 알게 된 개념들
 
-***
-
 #### API
 #### JSON,GSON
 #### Retrofit, Okhttp
