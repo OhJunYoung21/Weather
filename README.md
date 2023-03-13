@@ -17,7 +17,6 @@
 
 ## 새로 알게 된 개념들
 
-***
 
 #### API : 
 #### JSON,GSON : API가 data를 response 할때 제공해주는 데이터의 형태, gson 을 사용해서 직렬화, 역직렬화를 수행 (@SerializableName)
